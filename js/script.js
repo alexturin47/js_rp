@@ -1,9 +1,4 @@
-"use strict"
-
-
-<<<<<<< HEAD
-=======
-2) Создать объект personalMovieDB и в него поместить такие свойства:
+/*2) Создать объект personalMovieDB и в него поместить такие свойства:
     - count - сюда передается ответ на первый вопрос
     - movies - в это свойство поместить пустой объект
     - actors - тоже поместить пустой объект
@@ -183,4 +178,3 @@ movieDB.movies.forEach((item, i) =>{
     movieList.innerHTML += `<li class="promo__interactive-item">${i+1}. ${item}
     <div class="delete"></div></li>`;
 });
->>>>>>> 8277a92c680cf2a248daa439164f3e9da9b67951
